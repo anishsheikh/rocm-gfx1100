@@ -1,5 +1,5 @@
 # ROCm on gfx1100 cards
-Early Compatibility for cards  
+Early Compatibility for AMD RDNA 3 cards  for Tensorflow
 By any means this is not a fully working build.
 Use At Your Own Risk.
 The wheels are for Linux, tested on ubuntu 22.04.
