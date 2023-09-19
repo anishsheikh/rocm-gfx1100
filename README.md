@@ -10,7 +10,7 @@ Hereby earlier people were trying to figure out how to make the AI frameworks wo
 No official support is yet available but there are certain patches that make it work like this one
 https://cprimozic.net/notes/posts/setting-up-tensorflow-with-rocm-on-7900-xtx/
 
-We continue in the path to get tf 2.12, 2.13 to work as i just got a card last week ig.
+We continue in the path to get tf 2.12, 2.13, 2.14 to work as i just got a card last week ig.
 
 you can install the built wheels or build the packages yourself
 tho, the docker container is just for building. change appropriate workstation drivers to make it a training container.
