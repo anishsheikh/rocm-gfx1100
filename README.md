@@ -4,7 +4,7 @@ By any means this is not a fully working build.
 Use At Your Own Risk.
 The wheels are for Linux, tested on ubuntu 22.04.
 primary steps to set up system would be found here :
-https://docs.amd.com/en/docs-5.3.0/deploy/linux/quick_start.html
+https://docs.amd.com/en/docs-5.6.0/deploy/linux/quick_start.html
 https://www.amd.com/en/support/kb/faq/amdgpu-installation
 Hereby earlier people were trying to figure out how to make the AI frameworks work on AMD RDNA 3 Cards.
 No official support is yet available but there are certain patches that make it work like this one
