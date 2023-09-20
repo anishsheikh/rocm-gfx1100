@@ -61,4 +61,4 @@ WORKDIR /home/tensorflow-rocm/tensorflow-upstream
 #Build Will pass for r2.14
 RUN ./build_rocm_python3
 #Either build or just install it
-#RUN pip install https://github.com/anishsheikh/rocm-gfx1100/releases/download/r2.14-rocm-enhanced57/tf_nightly-2.14.0-cp310-cp310-linux_x86_64.whl
+#RUN pip install https://github.com/anishsheikh/rocm-gfx1100/releases/download/r2.14-rocm-enhanced57/tf_nightly_rocm-2.14.0-cp310-cp310-linux_x86_64.whl
