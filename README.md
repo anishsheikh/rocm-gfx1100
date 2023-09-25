@@ -1,5 +1,5 @@
 # ROCm on gfx1100 cards
-Early Compatibility for AMD RDNA 3 cards  for Tensorflow
+Early Compatibility for AMD RDNA 3 cards  for Tensorflow and pytorch
 By any means this is not a fully working build.
 Use At Your Own Risk.
 The wheels are for Linux, tested on ubuntu 22.04.
@@ -10,7 +10,7 @@ Hereby earlier people were trying to figure out how to make the AI frameworks wo
 No official support is yet available but there are certain patches that make it work like this one
 https://cprimozic.net/notes/posts/setting-up-tensorflow-with-rocm-on-7900-xtx/
 
-We continue in the path to get tf 2.12, 2.13, 2.14 to work as i just got a card last week ig.
+We continue in the path to get tf 2.12, 2.13, 2.14 to work as i just got a RADEON 7000 Series card last week ig.
 
 you can install the built wheels or build the packages yourself
 tho, the docker container is just for building. change appropriate workstation drivers to make it a training container.
