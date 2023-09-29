@@ -27,7 +27,7 @@ to workaround just some things are needed
 Drivers for cards should be properly installed.
 
 The wheels are in release section.
-Wheels are Distributed through complete open source license that Google and AMD follows and includes all the other Propreitary and 
+Wheels are Distributed through complete open source license that Google, AMD  and Meta follows and includes all the other Propreitary and 
 non proprietary licenses aligned to these tools used.
 
 ```code
