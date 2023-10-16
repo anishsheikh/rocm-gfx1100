@@ -25,7 +25,10 @@ to workaround just some things are needed
   export ROCM_PATH=/opt/rocm
 ```
 Drivers for cards should be properly installed.
-
+``
+I buy everyone food and do charity?
+of course not. I have the food , i'm gonna eat the food if i buy it.
+``
 to play around here's my docker container.
 ```
 docker pull sheikhchilli/buildsys
